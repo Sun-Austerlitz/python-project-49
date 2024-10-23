@@ -13,3 +13,6 @@ Brain Games is a collection of mini-games to train your brain. Each game asks yo
 
 ### Calculator Game
 [![asciicast](https://asciinema.org/a/AaTRjkz6rDpE9YQvIEDKeUTOl.svg)](https://asciinema.org/a/AaTRjkz6rDpE9YQvIEDKeUTOl)
+
+### Greatest Common Divisor (GCD) Game
+[![asciicast](https://asciinema.org/a/CKnnLaYFLbiPDfv5OUTj0vPTJ.svg)](https://asciinema.org/a/CKnnLaYFLbiPDfv5OUTj0vPTJ)
