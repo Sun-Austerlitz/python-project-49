@@ -19,3 +19,6 @@ Brain Games is a collection of mini-games to train your brain. Each game asks yo
 
 ### Arithmetic Progression Game
 [![asciicast](https://asciinema.org/a/QJMZZVFfmfB93WjgKXlhPQWre.svg)](https://asciinema.org/a/QJMZZVFfmfB93WjgKXlhPQWre)
+
+### Prime Number Game
+[![asciicast](https://asciinema.org/a/p18WYpeiTSliQnt3SaxOK1ch0.svg)](https://asciinema.org/a/p18WYpeiTSliQnt3SaxOK1ch0)
